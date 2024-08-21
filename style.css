@@ -11,11 +11,10 @@
   height: 500px;
   margin: 0 auto;
   margin-top: 210px;
-  padding: 4px;
+  padding: 10px;
 }
-.row{
+.colum{
 display: inline-block;
-margin-top: 4px;
 }
 .square{
   width: 110px;
